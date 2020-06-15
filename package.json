@@ -1,0 +1,22 @@
+{
+  "name": "kukanqapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "@lisqu16/kukanqAPI"
+  },
+  "keywords": [
+    "kukanq",
+    "kukanqAPI",
+    "teksty kukanqa",
+    "kukanq teksty"
+  ],
+  "author": "liskqu, ProgramistaZpolski",
+  "license": "MIT"
+}
